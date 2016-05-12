@@ -24,6 +24,9 @@ class SampleJenkinsiOSTests: XCTestCase {
     func testExample() {
         // This is an example of a functional test case.
         // Use XCTAssert and related functions to verify your tests produce the correct results.
+
+        //Dummy Test
+
         let x = 2
         let y = 3
         XCTAssert((x + y ) == 5)
